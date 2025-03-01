@@ -15,7 +15,7 @@ import net.md_5.bungee.api.chat.TextComponent;
 import java.util.HashMap;
 import java.util.Map;
 
-class Hookah extends JavaPlugin implements Listener {
+public class Hookah extends JavaPlugin implements Listener {
 
     private final Map<String, Integer> puffs = new HashMap<>();
     private final int maxPuffs = 15;
