@@ -1,0 +1,4 @@
+name: Hookah
+version: '2.0'
+main: QmIls.Hookah.Hookah
+api-version: '1.21'
